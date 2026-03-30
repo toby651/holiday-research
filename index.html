@@ -937,6 +937,198 @@
     margin: 3rem auto;
   }
 
+  /* ========== PROPERTIES ========== */
+  .properties-section {
+    padding: 6rem 0;
+    background: var(--sand);
+  }
+
+  .properties-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  .prop-region-label {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.6rem;
+    margin: 3rem 0 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid var(--terracotta);
+    display: inline-block;
+  }
+
+  .prop-region-label:first-of-type { margin-top: 0; }
+
+  .prop-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .prop-card {
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 1px solid rgba(0,0,0,0.04);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .prop-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 40px rgba(0,0,0,0.1);
+  }
+
+  .prop-card.featured {
+    border: 2px solid var(--terracotta);
+  }
+
+  .prop-header {
+    padding: 1.5rem 1.5rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .prop-name {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.3rem;
+    line-height: 1.2;
+  }
+
+  .prop-badge {
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.7rem;
+    border-radius: 100px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-left: 0.5rem;
+  }
+
+  .prop-badge.top-pick { background: var(--terracotta); color: white; }
+  .prop-badge.runner-up { background: var(--sea); color: white; }
+  .prop-badge.backup { background: var(--olive); color: white; }
+  .prop-badge.luxury { background: var(--gold); color: var(--dark); }
+  .prop-badge.budget { background: #E8F5E9; color: #2E7D32; }
+
+  .prop-agency {
+    padding: 0.25rem 1.5rem 0;
+    font-size: 0.8rem;
+    color: #9B9590;
+  }
+
+  .prop-stats {
+    padding: 1rem 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+  }
+
+  .prop-stat {
+    text-align: center;
+    padding: 0.5rem;
+    background: var(--sand-light);
+    border-radius: 10px;
+  }
+
+  .prop-stat .val {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--dark);
+    line-height: 1.2;
+  }
+
+  .prop-stat .lbl {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #9B9590;
+  }
+
+  .prop-details {
+    padding: 0 1.5rem;
+    flex: 1;
+  }
+
+  .prop-detail-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.4rem 0;
+    font-size: 0.85rem;
+    border-bottom: 1px solid rgba(0,0,0,0.04);
+  }
+
+  .prop-detail-row:last-child { border-bottom: none; }
+
+  .prop-detail-row .key { color: #9B9590; }
+  .prop-detail-row .val { font-weight: 500; text-align: right; max-width: 60%; }
+
+  .prop-highlights {
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .prop-tag {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 100px;
+    background: var(--sand);
+    color: var(--dark-warm);
+    font-weight: 500;
+  }
+
+  .prop-price {
+    padding: 1rem 1.5rem;
+    margin-top: auto;
+    border-top: 1px solid rgba(0,0,0,0.06);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .prop-price .amount {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.3rem;
+  }
+
+  .prop-price .per { font-size: 0.75rem; color: #9B9590; }
+
+  .prop-price .budget-fit {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.7rem;
+    border-radius: 100px;
+  }
+
+  .budget-fit.green { background: #E8F5E9; color: #2E7D32; }
+  .budget-fit.amber { background: #FFF3E0; color: #E65100; }
+  .budget-fit.red { background: #FFEBEE; color: #C62828; }
+
+  .prop-note {
+    background: white;
+    border-radius: 16px;
+    padding: 1.5rem 2rem;
+    margin-top: 1.5rem;
+    border-left: 3px solid var(--sea);
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: #6B6560;
+  }
+
+  @media (max-width: 768px) {
+    .prop-grid { grid-template-columns: 1fr; }
+    .prop-stats { grid-template-columns: repeat(3, 1fr); }
+  }
+
 </style>
 </head>
 <body>
@@ -950,6 +1142,7 @@
   <ul class="nav-links">
     <li><a href="#group">The Group</a></li>
     <li><a href="#comparison">Regions</a></li>
+    <li><a href="#properties">Villas</a></li>
     <li><a href="#flights">Flights</a></li>
     <li><a href="#budget">Budget</a></li>
     <li><a href="#winner">The Pick</a></li>
@@ -1302,13 +1495,292 @@
   </div>
 </div>
 
+<!-- Properties -->
+<div class="properties-section" id="properties">
+  <div class="properties-inner">
+    <div class="reveal">
+      <p class="section-label">The Options</p>
+      <h2 class="section-title">Properties we've <em>found</em></h2>
+      <p class="section-desc">Real listings researched across specialist agencies, Airbnb, VRBO and direct bookings. Ranked by how well they fit our brief.</p>
+    </div>
+
+    <!-- PUGLIA -->
+    <div class="prop-region-label reveal">Puglia &mdash; Salento</div>
+
+    <div class="prop-grid">
+
+      <!-- Masseria Palaci -->
+      <div class="prop-card featured reveal">
+        <div class="prop-header">
+          <div class="prop-name">Masseria Palaci</div>
+          <div class="prop-badge top-pick">Top Pick</div>
+        </div>
+        <div class="prop-agency">The Thinking Traveller &middot; Salve, Salento</div>
+        <div class="prop-stats">
+          <div class="prop-stat"><div class="val">9</div><div class="lbl">Bedrooms</div></div>
+          <div class="prop-stat"><div class="val">18</div><div class="lbl">Guests</div></div>
+          <div class="prop-stat"><div class="val">25m</div><div class="lbl">Pool</div></div>
+        </div>
+        <div class="prop-details">
+          <div class="prop-detail-row"><span class="key">Nearest beach</span><span class="val">Pescoluse &mdash; 7 min drive</span></div>
+          <div class="prop-detail-row"><span class="key">Cook</span><span class="val">Daily cook included</span></div>
+          <div class="prop-detail-row"><span class="key">Airport</span><span class="val">Brindisi ~1h 20m</span></div>
+          <div class="prop-detail-row"><span class="key">Capacity note</span><span class="val">Slightly tight at 18 &mdash; may need extra beds</span></div>
+        </div>
+        <div class="prop-highlights">
+          <span class="prop-tag">25m pool</span>
+          <span class="prop-tag">Daily cook</span>
+          <span class="prop-tag">A/C</span>
+          <span class="prop-tag">Closest to Pescoluse</span>
+          <span class="prop-tag">Sunken lounge</span>
+          <span class="prop-tag">Lemon arcade</span>
+        </div>
+        <div class="prop-price">
+          <div><div class="amount">~&pound;8,000&ndash;15,000</div><div class="per">estimated / week</div></div>
+          <div class="budget-fit amber">Check price</div>
+        </div>
+      </div>
+
+      <!-- Masseria Giardini -->
+      <div class="prop-card reveal">
+        <div class="prop-header">
+          <div class="prop-name">Masseria Giardini</div>
+          <div class="prop-badge runner-up">Strong Option</div>
+        </div>
+        <div class="prop-agency">CV Villas &middot; Canale di Pirro valley</div>
+        <div class="prop-stats">
+          <div class="prop-stat"><div class="val">10</div><div class="lbl">Bedrooms</div></div>
+          <div class="prop-stat"><div class="val">20</div><div class="lbl">Guests</div></div>
+          <div class="prop-stat"><div class="val">Yes</div><div class="lbl">Heated Pool</div></div>
+        </div>
+        <div class="prop-details">
+          <div class="prop-detail-row"><span class="key">Nearest beach</span><span class="val">~20 min drive to coast</span></div>
+          <div class="prop-detail-row"><span class="key">Beds</span><span class="val">10 en-suite, hand-carved stone baths in 5</span></div>
+          <div class="prop-detail-row"><span class="key">Gardens</span><span class="val">Chelsea Flower Show designers</span></div>
+          <div class="prop-detail-row"><span class="key">Extra</span><span class="val">Rooftop plunge pool + dining terrace</span></div>
+        </div>
+        <div class="prop-highlights">
+          <span class="prop-tag">10 en-suite bedrooms</span>
+          <span class="prop-tag">Heated pool</span>
+          <span class="prop-tag">Rooftop pool</span>
+          <span class="prop-tag">A/C</span>
+          <span class="prop-tag">Historic 1750</span>
+        </div>
+        <div class="prop-price">
+          <div><div class="amount">Contact CV Villas</div><div class="per">for July pricing</div></div>
+          <div class="budget-fit amber">Request quote</div>
+        </div>
+      </div>
+
+      <!-- Masseria del Vigneto -->
+      <div class="prop-card reveal">
+        <div class="prop-header">
+          <div class="prop-name">Masseria del Vigneto</div>
+          <div class="prop-badge runner-up">Strong Option</div>
+        </div>
+        <div class="prop-agency">Welcome Beyond &middot; Alberobello / Fasano</div>
+        <div class="prop-stats">
+          <div class="prop-stat"><div class="val">10</div><div class="lbl">Bedrooms</div></div>
+          <div class="prop-stat"><div class="val">20+</div><div class="lbl">Guests</div></div>
+          <div class="prop-stat"><div class="val">Heated</div><div class="lbl">Pool</div></div>
+        </div>
+        <div class="prop-details">
+          <div class="prop-detail-row"><span class="key">Nearest beach</span><span class="val">Savelletri &mdash; 20 min drive</span></div>
+          <div class="prop-detail-row"><span class="key">Cook</span><span class="val">Resident chef (daily, from kitchen garden)</span></div>
+          <div class="prop-detail-row"><span class="key">Sports</span><span class="val">All-weather tennis court</span></div>
+          <div class="prop-detail-row"><span class="key">Grounds</span><span class="val">30 hectares &mdash; vineyards, olive groves</span></div>
+        </div>
+        <div class="prop-highlights">
+          <span class="prop-tag">Resident chef</span>
+          <span class="prop-tag">Tennis court</span>
+          <span class="prop-tag">Heated pool</span>
+          <span class="prop-tag">30ha estate</span>
+          <span class="prop-tag">Concert tickets</span>
+        </div>
+        <div class="prop-price">
+          <div><div class="amount">Contact agency</div><div class="per">for July pricing</div></div>
+          <div class="budget-fit amber">Request quote</div>
+        </div>
+      </div>
+
+      <!-- Villa Elia -->
+      <div class="prop-card reveal">
+        <div class="prop-header">
+          <div class="prop-name">Villa Elia</div>
+          <div class="prop-badge luxury">Has Games!</div>
+        </div>
+        <div class="prop-agency">The Thinking Traveller &middot; Gallipoli area</div>
+        <div class="prop-stats">
+          <div class="prop-stat"><div class="val">8</div><div class="lbl">Bedrooms</div></div>
+          <div class="prop-stat"><div class="val">~16</div><div class="lbl">Guests</div></div>
+          <div class="prop-stat"><div class="val">Yes</div><div class="lbl">Pool</div></div>
+        </div>
+        <div class="prop-details">
+          <div class="prop-detail-row"><span class="key">Nearest beach</span><span class="val">Gallipoli beaches &mdash; 7km</span></div>
+          <div class="prop-detail-row"><span class="key">Games</span><span class="val">Tennis, billiards, outdoor gym</span></div>
+          <div class="prop-detail-row"><span class="key">Wellness</span><span class="val">Steam room &amp; sauna</span></div>
+          <div class="prop-detail-row"><span class="key">Capacity note</span><span class="val">Only 8 beds &mdash; too small alone</span></div>
+        </div>
+        <div class="prop-highlights">
+          <span class="prop-tag">Tennis courts</span>
+          <span class="prop-tag">Billiards</span>
+          <span class="prop-tag">Sauna/steam</span>
+          <span class="prop-tag">Pizza oven</span>
+          <span class="prop-tag">18th century</span>
+        </div>
+        <div class="prop-price">
+          <div><div class="amount">Contact TTT</div><div class="per">8 beds only &mdash; would need +2 more</div></div>
+          <div class="budget-fit red">Too small</div>
+        </div>
+      </div>
+
+      <!-- Le Collectionist -->
+      <div class="prop-card reveal">
+        <div class="prop-header">
+          <div class="prop-name">Le Collectionist Salento</div>
+          <div class="prop-badge budget">Best Value</div>
+        </div>
+        <div class="prop-agency">Le Collectionist &middot; Salento</div>
+        <div class="prop-stats">
+          <div class="prop-stat"><div class="val">10</div><div class="lbl">Bedrooms</div></div>
+          <div class="prop-stat"><div class="val">20</div><div class="lbl">Guests</div></div>
+          <div class="prop-stat"><div class="val">Yes</div><div class="lbl">Pool</div></div>
+        </div>
+        <div class="prop-details">
+          <div class="prop-detail-row"><span class="key">Price</span><span class="val">&euro;8,565&ndash;12,945 / week</span></div>
+          <div class="prop-detail-row"><span class="key">Location</span><span class="val">Salento area</span></div>
+          <div class="prop-detail-row"><span class="key">Note</span><span class="val">Confirmed pricing range found online</span></div>
+        </div>
+        <div class="prop-highlights">
+          <span class="prop-tag">10 bedrooms</span>
+          <span class="prop-tag">Pool</span>
+          <span class="prop-tag">Priced online</span>
+        </div>
+        <div class="prop-price">
+          <div><div class="amount">&euro;8,565&ndash;12,945</div><div class="per">per week (&pound;7,200&ndash;10,900)</div></div>
+          <div class="budget-fit amber">&pound;1,200&ndash;1,800/family</div>
+        </div>
+      </div>
+
+      <!-- Masseria Pistola -->
+      <div class="prop-card reveal">
+        <div class="prop-header">
+          <div class="prop-name">Masseria Pistola</div>
+          <div class="prop-badge luxury">Luxury</div>
+        </div>
+        <div class="prop-agency">AMA Selections &middot; Ostuni area</div>
+        <div class="prop-stats">
+          <div class="prop-stat"><div class="val">10</div><div class="lbl">Bedrooms</div></div>
+          <div class="prop-stat"><div class="val">22</div><div class="lbl">Guests</div></div>
+          <div class="prop-stat"><div class="val">Heated</div><div class="lbl">Pool</div></div>
+        </div>
+        <div class="prop-details">
+          <div class="prop-detail-row"><span class="key">Chef</span><span class="val">Private chef 8hrs/day, 6 days</span></div>
+          <div class="prop-detail-row"><span class="key">Grounds</span><span class="val">44 hectares + tennis court</span></div>
+          <div class="prop-detail-row"><span class="key">Beach</span><span class="val">~60 min to Pescoluse (far)</span></div>
+          <div class="prop-detail-row"><span class="key">Price</span><span class="val">$14,600&ndash;40,600/week</span></div>
+        </div>
+        <div class="prop-highlights">
+          <span class="prop-tag">Private chef</span>
+          <span class="prop-tag">Butler</span>
+          <span class="prop-tag">Tennis</span>
+          <span class="prop-tag">44ha estate</span>
+          <span class="prop-tag">Heated pool</span>
+        </div>
+        <div class="prop-price">
+          <div><div class="amount">$14,600&ndash;40,600</div><div class="per">per week (peak July ~$30k+)</div></div>
+          <div class="budget-fit red">Over budget</div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="prop-note reveal">
+      <strong>The two-villa strategy:</strong> Finding a single 10+ bedroom villa with pool, table tennis, near white beaches, under &pound;10k/week in peak July is genuinely hard. The most realistic approach may be <strong>two adjacent villas in the Ugento/Salve/Gallipoli area</strong> &mdash; close to Pescoluse and Punta Prosciutto. This gives more options, often cheaper, and lets families have some independence. Contact Charming Puglia and Apulia Rentals about paired properties.
+    </div>
+
+    <!-- SICILY -->
+    <div class="prop-region-label reveal">Sicily &mdash; South-East (Backup)</div>
+
+    <div class="prop-grid">
+
+      <!-- Villa Farli -->
+      <div class="prop-card reveal">
+        <div class="prop-header">
+          <div class="prop-name">Villa Farli</div>
+          <div class="prop-badge runner-up">Best Sicily</div>
+        </div>
+        <div class="prop-agency">The Thinking Traveller &middot; Scicli</div>
+        <div class="prop-stats">
+          <div class="prop-stat"><div class="val">10</div><div class="lbl">Bedrooms</div></div>
+          <div class="prop-stat"><div class="val">20</div><div class="lbl">Guests</div></div>
+          <div class="prop-stat"><div class="val">Yes</div><div class="lbl">Heated Pool</div></div>
+        </div>
+        <div class="prop-details">
+          <div class="prop-detail-row"><span class="key">Nearest beach</span><span class="val">Sampieri &mdash; 5 min drive (1.7km golden sand)</span></div>
+          <div class="prop-detail-row"><span class="key">Layout</span><span class="val">Manor house + guesthouse + 3 cottages</span></div>
+          <div class="prop-detail-row"><span class="key">Airport</span><span class="val">Catania ~1h 30m</span></div>
+          <div class="prop-detail-row"><span class="key">Note</span><span class="val">Nearby beaches golden sand, not white</span></div>
+        </div>
+        <div class="prop-highlights">
+          <span class="prop-tag">10 bedrooms</span>
+          <span class="prop-tag">Heated pool</span>
+          <span class="prop-tag">Manor + cottages</span>
+          <span class="prop-tag">Near Scicli</span>
+        </div>
+        <div class="prop-price">
+          <div><div class="amount">~&pound;10,000&ndash;15,000</div><div class="per">estimated / week</div></div>
+          <div class="budget-fit amber">Check price</div>
+        </div>
+      </div>
+
+      <!-- Villa Lumia -->
+      <div class="prop-card reveal">
+        <div class="prop-header">
+          <div class="prop-name">Villa Lumia</div>
+          <div class="prop-badge budget">Priced</div>
+        </div>
+        <div class="prop-agency">Exclusive Sicily / Direct &middot; Scicli</div>
+        <div class="prop-stats">
+          <div class="prop-stat"><div class="val">10</div><div class="lbl">Bedrooms</div></div>
+          <div class="prop-stat"><div class="val">20</div><div class="lbl">Guests</div></div>
+          <div class="prop-stat"><div class="val">18m</div><div class="lbl">Pool</div></div>
+        </div>
+        <div class="prop-details">
+          <div class="prop-detail-row"><span class="key">Beds</span><span class="val">8 doubles + 2 twins (perfect config!)</span></div>
+          <div class="prop-detail-row"><span class="key">Nearest beach</span><span class="val">Playa Grande &mdash; 7km</span></div>
+          <div class="prop-detail-row"><span class="key">Bathrooms</span><span class="val">11 (all en-suite)</span></div>
+          <div class="prop-detail-row"><span class="key">Extras</span><span class="val">A/C, WiFi, minibar, safe in each room</span></div>
+        </div>
+        <div class="prop-highlights">
+          <span class="prop-tag">8 doubles + 2 twins</span>
+          <span class="prop-tag">18m pool</span>
+          <span class="prop-tag">11 en-suite</span>
+          <span class="prop-tag">Sea views</span>
+          <span class="prop-tag">A/C</span>
+        </div>
+        <div class="prop-price">
+          <div><div class="amount">&euro;10,850&ndash;13,900</div><div class="per">per week (&pound;9,100&ndash;11,700)</div></div>
+          <div class="budget-fit amber">&pound;1,500&ndash;1,950/family</div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="prop-note reveal">
+      <strong>Sicily beach trade-off:</strong> The 10-bedroom villas in SE Sicily (Scicli/Ragusa area) are near golden sand beaches (Sampieri, Marina di Ragusa), not the white sand of Fontane Bianche or Vendicari which are 40&ndash;65km further north near Noto. Still beautiful, but not the Caribbean-style beaches you asked for. Puglia's Pescoluse is a better match for white sand.
+    </div>
+
+  </div>
+</div>
+
 <!-- Flights -->
 <div class="flights-section" id="flights">
   <div class="flights-inner">
     <div class="reveal">
       <p class="section-label">Getting There</p>
       <h2 class="section-title" style="color: var(--cream);">Split flights, <em>one destination</em></h2>
-      <p class="section-desc">The London crew flies from Stansted. The West Country lot flies from Bristol. Everyone lands at Bari or Brindisi.</p>
+      <p class="section-desc">25 July is a Saturday. Both Bristol&ndash;Bari and Stansted&ndash;Bari/Brindisi operate on Saturdays. The London crew flies from Stansted, the Bristol lot from Bristol.</p>
     </div>
 
     <div class="flight-map reveal">
@@ -1402,10 +1874,11 @@
           <div class="flight-arrow"></div>
           <span class="flight-code">BRI</span>
         </div>
-        <div class="flight-detail"><span>Airline</span><strong>easyJet / Ryanair</strong></div>
+        <div class="flight-detail"><span>Airline</span><strong>easyJet (NEW route Apr 2026)</strong></div>
         <div class="flight-detail"><span>Duration</span><strong>2h 50m</strong></div>
-        <div class="flight-detail"><span>Price (return)</span><strong>~&pound;135pp</strong></div>
-        <div class="flight-detail"><span>Times</span><strong>Morning &amp; afternoon</strong></div>
+        <div class="flight-detail"><span>Saturday</span><strong>Yes &mdash; operates Tue &amp; Sat</strong></div>
+        <div class="flight-detail"><span>Price (return)</span><strong>~&pound;100&ndash;200pp (peak July est.)</strong></div>
+        <div class="flight-detail"><span>Times</span><strong>TBC &mdash; likely morning/early afternoon</strong></div>
         <div class="flight-who">Bristol families fly here &rarr;</div>
       </div>
       <div class="flight-card">
@@ -1415,9 +1888,10 @@
           <span class="flight-code">BRI</span>
         </div>
         <div class="flight-detail"><span>Airline</span><strong>Ryanair</strong></div>
-        <div class="flight-detail"><span>Duration</span><strong>3h 00m</strong></div>
-        <div class="flight-detail"><span>Price (return)</span><strong>~&pound;100&ndash;170pp</strong></div>
-        <div class="flight-detail"><span>Frequency</span><strong>1&ndash;4x per week</strong></div>
+        <div class="flight-detail"><span>Duration</span><strong>2h 45m</strong></div>
+        <div class="flight-detail"><span>Saturday</span><strong>Yes &mdash; depart ~12:50, arrive ~16:35</strong></div>
+        <div class="flight-detail"><span>Return Sat</span><strong>Depart ~17:15, arrive ~19:10</strong></div>
+        <div class="flight-detail"><span>Price (return)</span><strong>~&pound;80&ndash;180pp</strong></div>
         <div class="flight-who">London families &mdash; option A &rarr;</div>
       </div>
       <div class="flight-card">
@@ -1427,10 +1901,12 @@
           <span class="flight-code">BDS</span>
         </div>
         <div class="flight-detail"><span>Airline</span><strong>Ryanair</strong></div>
-        <div class="flight-detail"><span>Duration</span><strong>3h 00m</strong></div>
-        <div class="flight-detail"><span>Price (return)</span><strong>~&pound;100&ndash;150pp</strong></div>
-        <div class="flight-detail"><span>Note</span><strong>Closer to Salento beaches</strong></div>
-        <div class="flight-who">London families &mdash; option B &rarr;</div>
+        <div class="flight-detail"><span>Duration</span><strong>2h 55m</strong></div>
+        <div class="flight-detail"><span>Saturday</span><strong>Yes &mdash; depart 12:15, arrive 16:10</strong></div>
+        <div class="flight-detail"><span>Return Sat</span><strong>Depart 16:35, arrive 18:35</strong></div>
+        <div class="flight-detail"><span>Price (return)</span><strong>~&pound;70&ndash;160pp</strong></div>
+        <div class="flight-detail"><span>Note</span><strong>Best times + closer to Salento</strong></div>
+        <div class="flight-who">London families &mdash; option B (recommended) &rarr;</div>
       </div>
     </div>
   </div>
@@ -1560,20 +2036,20 @@
 
   <div class="steps-grid reveal">
     <div class="step-card">
-      <h3>Find the villa</h3>
-      <p>Search Apulia Rentals, VRBO, Airbnb, and Charming Puglia for 10+ bedroom properties (or two adjacent villas) with a pool near Salento beaches. July goes fast &mdash; book early.</p>
+      <h3>Vote on a villa</h3>
+      <p>Look at the options above. Top picks to enquire about: <strong>Masseria Palaci</strong> (closest to Pescoluse, daily cook), <strong>Masseria Giardini</strong> (10 beds, perfect size), or <strong>Le Collectionist</strong> (confirmed pricing). Also ask Charming Puglia about two paired villas near Ugento.</p>
     </div>
     <div class="step-card">
       <h3>Lock in flights</h3>
-      <p>Bristol crew: easyJet/Ryanair to Bari. London crew: Ryanair to Bari or Brindisi from Stansted. Check 25 Jul outbound, 1 Aug return. Prices go up quickly for peak summer.</p>
+      <p><strong>Bristol crew:</strong> easyJet BRS&rarr;BRI (new Sat route). <strong>London crew:</strong> Ryanair STN&rarr;BDS (Sat 12:15, best times) or STN&rarr;BRI. Book for <strong>Sat 25 Jul out, Sat 1 Aug back</strong>. Both routes confirmed Saturday service.</p>
     </div>
     <div class="step-card">
       <h3>Confirm &amp; deposit</h3>
-      <p>Once we've got a property and flights that work, collect deposits and lock it in. Suggest &pound;300 per family to secure everything.</p>
+      <p>Once we've got a property and flights that work, collect deposits and lock it in. Suggest &pound;300 per family to secure everything. Book ASAP &mdash; 10+ bed villas in peak July go fast.</p>
     </div>
     <div class="step-card">
       <h3>Get excited</h3>
-      <p>Start a group chat, share inspo photos of Pescoluse beach, argue about who gets which bedroom, and count down the days.</p>
+      <p>Start the group chat, Google &ldquo;Pescoluse beach&rdquo; for inspo, argue about who gets which bedroom, and start counting down the days. 🇮🇹</p>
     </div>
   </div>
 </section>
