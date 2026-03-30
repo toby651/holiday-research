@@ -2648,28 +2648,34 @@
     });
   });
 
-  // ========== VOTING ==========
-  const STORAGE_KEY = 'summer2026_votes';
+  // ========== VOTING (Railway API) ==========
+  const API_URL = 'https://pleasant-nourishment-production.up.railway.app';
 
-  function getVotes() {
+  async function fetchVotes() {
     try {
-      return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+      const res = await fetch(API_URL + '/votes');
+      return await res.json();
     } catch { return []; }
   }
 
-  function saveVote(vote) {
-    const votes = getVotes();
-    // Replace if same name exists
-    const existing = votes.findIndex(v => v.name.toLowerCase() === vote.name.toLowerCase());
-    if (existing >= 0) votes[existing] = vote;
-    else votes.push(vote);
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(votes));
+  async function submitVoteToAPI(vote) {
+    const res = await fetch(API_URL + '/votes', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(vote)
+    });
+    return await res.json();
   }
 
-  function renderVotes() {
-    const votes = getVotes();
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  function renderVotes(votes) {
     const list = document.getElementById('votesList');
-    if (votes.length === 0) {
+    if (!votes || votes.length === 0) {
       list.innerHTML = '<p style="color: rgba(255,252,247,0.3); font-style: italic;">No votes yet. Be the first!</p>';
       return;
     }
@@ -2685,13 +2691,7 @@
     `).join('');
   }
 
-  function escapeHtml(text) {
-    const div = document.createElement('div');
-    div.textContent = text;
-    return div.innerHTML;
-  }
-
-  document.getElementById('submitVote').addEventListener('click', () => {
+  document.getElementById('submitVote').addEventListener('click', async () => {
     const name = document.getElementById('voterName').value.trim();
     const property = document.querySelector('input[name="property"]:checked');
     const comment = document.getElementById('voterComment').value.trim();
@@ -2700,15 +2700,30 @@
     if (!name) { alert('Please enter your name'); return; }
     if (!property) { alert('Please pick a property'); return; }
 
-    saveVote({ name, property: property.value, comment, committed, date: new Date().toISOString() });
+    const btn = document.getElementById('submitVote');
+    btn.textContent = 'Submitting...';
+    btn.disabled = true;
 
-    document.getElementById('voteForm').style.display = 'none';
-    document.getElementById('voteSuccess').classList.add('show');
-    renderVotes();
+    try {
+      const result = await submitVoteToAPI({ name, property: property.value, comment, committed });
+      document.getElementById('voteForm').style.display = 'none';
+      document.getElementById('voteSuccess').classList.add('show');
+      renderVotes(result.votes);
+    } catch (e) {
+      alert('Failed to submit vote. Please try again.');
+      btn.textContent = 'Submit Vote';
+      btn.disabled = false;
+    }
   });
 
   // Load existing votes on page load
-  renderVotes();
+  fetchVotes().then(renderVotes);
+
+  // Poll for new votes every 30 seconds
+  setInterval(async () => {
+    const votes = await fetchVotes();
+    renderVotes(votes);
+  }, 30000);
 </script>
 
 </body>
