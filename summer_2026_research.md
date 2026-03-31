@@ -883,3 +883,406 @@ Given our budget of approx EUR 5,000-8,000 for accommodation, the most realistic
 3. Search Airbnb/VRBO with specific filters: Salento, 10+ bedrooms, 20 guests, pool, July 25-Aug 1 2026
 4. Contact [Charming Puglia](https://www.charmingpuglia.com) and [Apulia Rentals](https://www.apuliarentals.com) to ask about large group options with table tennis near Pescoluse
 5. Explore two-villa options on VRBO near Ugento/Salve/Gallipoli area
+
+---
+
+## Puglia Two-Villa Research: Ugento / Salve / Pescoluse Area (Detailed)
+
+Research conducted 30 March 2026 for two separate villas (6-bed + 4-bed) near Pescoluse beach on the Salento coast.
+
+**Strategy:** Book a 6-bedroom villa + a 4-bedroom villa in the same area (Ugento/Salve/Torre San Giovanni/Pescoluse). Combined = 10 bedrooms for the group's 21 people. This gives more options, better prices, and some independence between families.
+
+**Target area:** The triangle formed by Ugento (inland town), Salve (inland town), and the coast from Torre San Giovanni south through Pescoluse to Torre Pali. Pescoluse beach ("Maldives of Salento") is the white sand target. Gallipoli (20km north) also considered for the 4-bed villa.
+
+---
+
+### SIZE 1: 6-BEDROOM VILLAS WITH POOL
+
+---
+
+#### 1. Salento Pool Villa (SopranoVillas) -- STRONG OPTION
+- **Link:** [SopranoVillas](https://www.sopranovillas.com/property/salento-pool-villa/)
+- **Also listed on:** Airbnb as "Villa with pool in Puglia Salento" ([Airbnb #4186083](https://www.airbnb.com/rooms/4186083))
+- **Bedrooms:** 6 (across main house + annexe)
+- **Bathrooms:** 5
+- **Sleeps:** 12
+- **Pool:** Saltwater, 14.5m x 5.5m, depth 1.2-1.7m -- excellent size
+- **Location:** 2 km outside Ugento town
+- **Distance to beach:** ~10 min drive to Marina di Ugento/Torre San Giovanni beaches; ~15 min to Pescoluse
+- **Price:** Enquiry-based via SopranoVillas. Airbnb shows ~$292/night (~EUR 270/night), so approx EUR 1,890/week. **However, July peak pricing may be significantly higher -- likely EUR 3,000-5,000/week.**
+- **Rating:** 4.97 stars on Airbnb (6 bedrooms, 6 beds, 4.5 baths listed)
+- **Amenities:** Outdoor cooking area with hob, sink and brick BBQ; outdoor shower; solarium; set among ancient olive groves; Mediterranean vegetation
+- **Table tennis:** Not mentioned
+- **July 25-Aug 1 availability:** Check directly -- July dates sell out early
+- **VERDICT:** Great pool size, good location near Ugento. 6 bedrooms matching our needs exactly. Price is competitive. The 12-person max capacity works for the larger family group (3 families = 12 people). Contact SopranoVillas for July 2026 pricing.
+
+---
+
+#### 2. Villa Rosalore -- Ugento -- STRONG OPTION
+- **Links:** [Official site](https://www.rosalore.it/en/) | [Perle di Puglia](https://www.perledipuglia.it/en/villa-rosalore.html) | [Airbnb #4186083](https://www.airbnb.com/rooms/4186083) | [Bed-and-breakfast.it](https://www.bed-and-breakfast.it/en/apulia/villa-rosalore-ugento/61798) | [Booking.com](https://www.booking.com/hotel/it/villa-rosalore.html)
+- **Bedrooms:** 6 (main house: 1 double + 1 French bed 140cm, both with private bath; 2 doubles sharing a bath. Annexe: 2 doubles with bathroom)
+- **Bathrooms:** 5
+- **Sleeps:** 12-13
+- **Pool:** Saltwater (open April 1 - October 31). Size not specified.
+- **Location:** Contrada Zingarelle, Ugento (LE) 73059 -- countryside between Ugento and the coast
+- **Distance to beach:** 8 km to Marina di Ugento/Torre San Giovanni sandy beaches. ~12-15 km to Pescoluse (~20 min drive)
+- **Price:** From EUR 198/night (low season). **July peak likely EUR 300-450/night = EUR 2,100-3,150/week.** Contact directly for July 2026 rates.
+- **Rating:** 9.4/10 (22 reviews); Certificate of Excellence 2026
+- **Amenities:** Kitchen area with stove, sink and built-in BBQ; air conditioning; Wi-Fi; TV; hair dryers; laundry; parking; eco-friendly (solar panels); pets allowed (small dogs, EUR 200 fee)
+- **Table tennis:** Not mentioned
+- **July 25-Aug 1 availability:** Calendar showed July 25-31 as UNAVAILABLE. May already be booked for 2026.
+- **VERDICT:** Very well-rated, good value, proper 6 bedrooms. However, July 25-31 appears already taken. Worth contacting owner at +393495798707 to confirm availability or get on a waitlist.
+
+---
+
+#### 3. Villa Le Due Sorelle -- Ugento -- STRONG OPTION (5 beds, expandable)
+- **Links:** [Official site](https://www.villaleduesorelle.it/en/) | [Airbnb #964431660908386588](https://www.airbnb.com/rooms/964431660908386588) | [Booking.com](https://www.booking.com/hotel/it/villa-with-swimming-pool-salento-villa-le-due-sorelle-ugento.de.html) | [TripAdvisor](https://www.tripadvisor.com/VacationRentalReview-g947837-d7685755-Villa_Le_Due_Sorelle_Salento-Ugento_Province_of_Lecce_Puglia.html)
+- **Bedrooms:** 5 (Main house: 1 double + 1 twin/convertible. Annexe: 3 doubles, 1 en-suite, 2 sharing)
+- **Bathrooms:** 3
+- **Sleeps:** 10-11
+- **Pool:** Infinity saltwater pool, 10m x 5m (open March 30 - October 31)
+- **Location:** Via Zingarelle 14, Ugento (LE) 73059 -- countryside
+- **Distance to beach:** Several km to Marina di Ugento beaches; similar distance to Pescoluse as Rosalore (~12-15 km)
+- **Price:** Not publicly listed for July 2026. Contact directly.
+- **Rating:** 8.9/10 (4 reviews); 4.5 stars; Certificate of Excellence 2026
+- **Amenities:** **PING PONG TABLE** (confirmed); BBQ; wood-burning pizza oven; two independent houses each with verandas; two gazebos by pool for outdoor dining; air conditioning; Wi-Fi; TV; laundry. Additional services available: home chef, babysitting, yoga, wine tours, pasta courses, cave excursions, boat rental, massages.
+- **Table tennis:** YES -- confirmed
+- **July 25-Aug 1 availability:** Shows unavailable for extensive 2026 periods -- may be fully booked
+- **VERDICT:** ONLY VILLA WITH CONFIRMED TABLE TENNIS among the 6-bed options. Has a pizza oven too. Only 5 bedrooms (not 6), but sleeps 10-11 which could work. The ping pong table is a huge plus. Contact early as availability looks tight.
+
+---
+
+#### 4. Villa Christelle Luxury -- Pescoluse -- CLOSEST TO BEACH
+- **Links:** [HDSalento](https://www.hdsalento.com/en/property/villa-christelle-luxury-pescoluse/) | [Booking.com](https://www.booking.com/hotel/it/villa-pescoluse-pescoluse-marina-di-salve.html)
+- **Bedrooms:** 6 (across 2 units: mix of doubles, triples with singles, and a bunk bed room)
+- **Bathrooms:** 3
+- **Sleeps:** 14
+- **Pool:** 10m x 4m, depth 1.5m, with large relaxation area
+- **Location:** Via Tito Schipa 1, 73050 Marina di Pescoluse LE -- right in Pescoluse village
+- **Distance to beach:** 800 metres to Pescoluse sandy beach (15 min walk)
+- **Price:** From EUR 200/night. **July/August likely EUR 400-600/night = EUR 2,800-4,200/week** (average area price for pool villas ~EUR 450/day). VRBO rates from EUR 1,015 shown on some aggregators.
+- **Rating:** 4.7 stars (23 verified reviews)
+- **Amenities:** **PING PONG TABLE + TABLE FOOTBALL**; BBQ; electric oven; air conditioning; Wi-Fi; fireplace; furnished outdoor patio; deck chairs and umbrellas; internal parking (4 spaces); pets allowed
+- **Table tennis:** YES -- confirmed
+- **July 25-Aug 1 availability:** Check directly with HDSalento
+- **VERDICT:** BEST LOCATION -- only 800m from Pescoluse beach. Has table tennis AND table football. 6 bedrooms sleeping 14. Split into 2 units gives some flexibility. Pool is smaller than the Soprano Villa but still decent at 10x4m. The 2-unit layout works well for a portion of the group. Contact HDSalento for July 2026 rates.
+
+---
+
+#### 5. Ugento Country Cottage -- Ugento
+- **Links:** [Airbnb #1147732230419274571](https://www.airbnb.com/rooms/1147732230419274571) | [Booking.com](https://www.booking.com/hotel/it/ugento-country-cottage.html) | [TripAdvisor](https://www.tripadvisor.ie/VacationRentalReview-g947837-d26272318-Ugento_Country_Cottage_Your_10_bedsits_countryside_villa_with_pool_in_Salento-Ugento_.html)
+- **Bedrooms:** Listed as 7 bedrooms on Booking.com; 4 bedrooms (2 in cottage + 2 in dependance) on Airbnb description -- confusing, may have been expanded
+- **Bathrooms:** Multiple (private bathrooms in each unit)
+- **Sleeps:** 10
+- **Pool:** Seasonal outdoor swimming pool with sunbathing area
+- **Location:** 4 km from Ugento town, 2 hectares of private land with Mediterranean garden, olive groves, fruit trees
+- **Distance to beach:** 3 km to Ionian beaches (Torre San Giovanni area)
+- **Price:** ~$423/night on Airbnb (~EUR 390/night), other sources show $778/night for peak. **Approx EUR 2,700-5,400/week depending on season.**
+- **Rating:** 4.9 stars (Airbnb)
+- **Amenities:** Garden; terrace; seasonal pool; lounge; outdoor fireplace; indoor and outdoor play areas; BBQ; solarium; bike hire; free parking
+- **Table tennis:** Not mentioned
+- **July 25-Aug 1 availability:** Check Airbnb/Booking.com directly
+- **VERDICT:** Good grounds and outdoor spaces. Bedroom count is unclear (4 vs 7 depending on source). BBQ and play areas good for families. 2 hectares of land is spacious. Clarify bedroom situation before booking.
+
+---
+
+### SIZE 2: 4-BEDROOM VILLAS WITH POOL
+
+---
+
+#### 6. Fiore Bianco (The Thinking Traveller) -- TOP 4-BED PICK
+- **Link:** [The Thinking Traveller](https://www.thethinkingtraveller.com/italy/puglia/villas/fiore-bianco)
+- **Bedrooms:** 4 (4 double/twin beds)
+- **Bathrooms:** 5
+- **Sleeps:** 8
+- **Pool:** 9m x 5m
+- **Location:** Marina di Salve, Puglia (on the coast between Salve and Torre Pali)
+- **Distance to beach:** **300m to Torre Pali beach** (walking distance); **2.8 km to Pescoluse beach** (4 min drive)
+- **Price:** Enquiry only via The Thinking Traveller (+44 (0)20 7377 8518). Based on comparable TTT properties, **estimate GBP 3,000-6,000/week in peak July.**
+- **Rating:** 4.7/5 (Trustpilot, company-wide)
+- **Amenities:** BBQ; optional cook service; air conditioning; extensive gardens with shady terraces; panoramic roof terrace with sea views; wine cooler; Smart TV; Bluetooth speakers; high-speed satellite Wi-Fi; private parking; walking distance to restaurants and shops; access to beach clubs (lidi)
+- **Table tennis:** Not mentioned
+- **July 25-Aug 1 availability:** Enquire with The Thinking Traveller
+- **VERDICT:** BEST 4-BED OPTION. Exceptional location -- 300m from beach AND only 2.8 km from Pescoluse. Beautiful sea views. The Thinking Traveller is a premium operator with excellent service. Could pair perfectly with a 6-bed villa in nearby Ugento/Salve. Price will be premium but quality is high. CONTACT TTT ASAP.
+
+---
+
+#### 7. Villa Gina -- Torre San Giovanni, Ugento
+- **Links:** [VRBO #1550410ha](https://www.vrbo.com/1550410ha) | [Perle di Puglia](https://www.perledipuglia.it/en/villa-gina.html)
+- **Bedrooms:** 4
+- **Bathrooms:** 2+
+- **Sleeps:** 11
+- **Pool:** Swimming pool with solarium
+- **Location:** Torre San Giovanni, Ugento (on the coast)
+- **Distance to beach:** 10 min walk to coast. ~5 min drive to Pescoluse ("5 minutes from the Maldives of Salento")
+- **Price:** Enquiry via VRBO/Perle di Puglia. Estimated EUR 200-400/night for July = EUR 1,400-2,800/week.
+- **Rating:** Not available
+- **Amenities:** BBQ; air conditioning; TV; washing machine; Wi-Fi; large garden in panoramic position overlooking sea; olive groves and Mediterranean scrub; large outdoor spaces; pets allowed
+- **Table tennis:** Not mentioned
+- **July 25-Aug 1 availability:** Check VRBO directly
+- **VERDICT:** Good value option. 4 beds sleeping 11 is generous. Coastal location in Torre San Giovanni puts it close to both local beaches and Pescoluse. Would pair well with a 6-bed villa in the Ugento countryside.
+
+---
+
+#### 8. Villa Pescoluse with Pool and Sea View -- Salve/Pescoluse
+- **Links:** [Airbnb #1394618016109989071](https://www.airbnb.com/rooms/1394618016109989071) | [Happy.Rentals](https://www.happy.rentals/vacation-rental/12230-villa-pescoluse-with-pool-and-sea-view) | [VRBO](https://www.vrbo.com/en-nz/holiday-accommodation/p11828285) | [Booking.com](https://www.booking.com/hotel/it/villa-pescoluse-with-pool-and-sea-view-happy-rentals.en-gb.html)
+- **Bedrooms:** 2 (1 double + 1 twin)
+- **Bathrooms:** 2
+- **Sleeps:** 4
+- **Pool:** Private outdoor pool, 8m x 4m
+- **Location:** Localita Giumentare, Pescoluse, 73050 Salve
+- **Distance to beach:** 3 min drive to Pescoluse beach (~2 km)
+- **Price:** EUR 118/night base rate. **July likely EUR 200-350/night = EUR 1,400-2,450/week.**
+- **Rating:** 8.6/10 (7 reviews)
+- **Amenities:** Air conditioning; Wi-Fi; outdoor shower; terrace with sea views; fenced garden; full kitchen; TV; free parking; child-friendly; pets permitted
+- **Table tennis:** No
+- **VERDICT:** TOO SMALL -- only 2 bedrooms/4 guests. Beautiful location and sea views but cannot accommodate a family group. Only useful if you need a tiny overflow villa as a third property.
+
+---
+
+#### 9. Villetta Iaculizzi -- Marina di Pescoluse
+- **Links:** [Airbnb #1011537234939578468](https://www.airbnb.com/rooms/1011537234939578468) | [BedroomVillas](https://www.bedroomvillas.com/property/villetta-iaculizzi-with-swimming-pool/HA-61411101637)
+- **Bedrooms:** 2-3 (sources vary)
+- **Bathrooms:** 1-2
+- **Sleeps:** 8
+- **Pool:** Outdoor pool + hot tub
+- **Location:** Marina di Pescoluse
+- **Distance to beach:** 14 min walk to Pescoluse beach (within 2 km)
+- **Price:** $255-317/night (EUR ~235-290/night). **July likely EUR 300-450/night = EUR 2,100-3,150/week.**
+- **Rating:** Top-rated on VRBO
+- **Amenities:** BBQ grill; air conditioning; garden; fully equipped kitchen; hot tub
+- **Table tennis:** Not mentioned
+- **VERDICT:** Small (2-3 beds) but has a hot tub. Could work for the smaller couple (Tom & Louise) as an overflow. Good Pescoluse location. But too small for a 4-family group.
+
+---
+
+#### 10. Villetta Estiva with Private Pool -- Gallipoli
+- **Link:** [RaroVillas](https://www.rarovillas.com/ugento.html) (listed as Baia di Gallipoli property)
+- **Bedrooms:** 3
+- **Bathrooms:** Not specified
+- **Sleeps:** 8
+- **Pool:** Private swimming pool
+- **Location:** Baia di Gallipoli (14 km from Ugento)
+- **Distance to beach:** Near the sea (Baia Verde / Gallipoli beaches)
+- **Price:** Not listed. Contact RaroVillas.
+- **Amenities:** Garden; Wi-Fi; air conditioning; BBQ
+- **Table tennis:** Not mentioned
+- **VERDICT:** 3 bedrooms in Gallipoli area -- could work as a 4-bed equivalent if one bedroom takes a family of 3-4. Gallipoli is 20km north of Pescoluse, so further from the target beach but still in the area. Only worth considering if closer options are unavailable.
+
+---
+
+### LUXURY/LARGER OPTIONS (if budget allows)
+
+---
+
+#### 11. Villa Specchia (The Thinking Traveller) -- 7 beds
+- **Link:** [The Thinking Traveller](https://www.thethinkingtraveller.com/italy/puglia/villas/villa-specchia)
+- **Bedrooms:** 7
+- **Bathrooms:** 6
+- **Sleeps:** 14
+- **Pool:** Heatable, 14m x 7m (heating EUR 680/week) -- HUGE pool
+- **Location:** Specchia village, inland Salento
+- **Distance to beach:** ~25 min drive to Pescoluse/Ugento beaches on Ionian coast
+- **Price:** Enquiry only. Based on Casino Doxi Stracca range (EUR 8,700-25,590/week for 7 beds), **estimate EUR 8,000-15,000/week for peak July.** Likely over budget as a single villa.
+- **Rating:** 4.7/5 (TTT Trustpilot)
+- **Amenities:** **TABLE TENNIS** (confirmed); BBQ; air conditioning + heating; fireplace/log burner; Smart TV; stereo; outdoor sound system; fibre internet; daily maid service (7 hrs, excl. Sundays); breakfast preparation included; weekly linen changes; private parking; extensive manicured gardens; walking distance to Specchia village restaurants and shops
+- **Table tennis:** YES -- confirmed
+- **VERDICT:** If budget stretches, this could work as a SINGLE villa for most of the group (7 beds/14 people) paired with a small 3-4 bed overflow. Has the essential table tennis. The 14x7m heatable pool is the best pool of any option found. But 25 min to Pescoluse is a drawback, and price will be premium. Worth enquiring.
+
+---
+
+#### 12. Casino Doxi Stracca (The Thinking Traveller) -- 7 beds
+- **Link:** [The Thinking Traveller](https://www.thethinkingtraveller.com/italy/puglia/villas/casino-doxi-stracca)
+- **Bedrooms:** 7 (in palazzo, casino, and chapel buildings)
+- **Bathrooms:** 7
+- **Sleeps:** 14
+- **Pool:** Main pool 18m x 2.5m + plunge pool 4m x 4m
+- **Location:** Alezio, Salento (less than 2km from Alezio town, 7km from Gallipoli)
+- **Distance to beach:** 7-8 km to Gallipoli beaches (15-20 min drive). ~30-35 km to Pescoluse (~40 min drive).
+- **Price:** EUR 8,700 - 25,590/week (confirmed range). **July peak likely EUR 15,000-20,000+/week.** WAY OVER BUDGET.
+- **Rating:** 4.7/5 (TTT Trustpilot)
+- **Amenities:** BBQ; air conditioning + heating; wine cellar; daily maid service (6 hrs excl. Sundays); optional cook; Smart TV; Bluetooth speakers; satellite Wi-Fi; private parking; 5 acres of olive groves and vineyards; 18th-century aristocratic manor
+- **Table tennis:** Not mentioned
+- **VERDICT:** Stunning historic property but far too expensive for the group budget. Listed for reference only. Also 40 min from Pescoluse.
+
+---
+
+#### 13. Tenuta MarVi (The Thinking Traveller) -- 5 beds, Salve
+- **Link:** [The Thinking Traveller](https://www.thethinkingtraveller.com/italy/puglia/villas/tenuta-marvi)
+- **Bedrooms:** 5 (3 in main house, 2 in guesthouse, each with en-suite)
+- **Bathrooms:** 5
+- **Sleeps:** 10
+- **Pool:** Yes (size not specified). Described as "lovely pool" with "nice landscaping"
+- **Location:** Countryside just outside Salve town
+- **Distance to beach:** Short drive to beaches from Marina di Pescoluse and Torre Vado to Riva di Ugento
+- **Price:** Enquiry only. Estimate GBP 4,000-8,000/week for peak July based on TTT range.
+- **Amenities:** Self-service wine cellar; pizza oven; BBQ; gardens
+- **Table tennis:** Not mentioned
+- **VERDICT:** Nice 5-bed option in Salve -- very close to Pescoluse. Has a pizza oven which kids will love. The main house + guesthouse split works well. Could work as the "6-bed equivalent" paired with a 4-bed. Contact TTT for pricing.
+
+---
+
+#### 14. Masseria Acquadolce (The Thinking Traveller) -- 9 beds, Taurisano
+- **Link:** [The Thinking Traveller](https://www.thethinkingtraveller.com/italy/puglia/villas/masseria-acquadolce)
+- **Bedrooms:** 9
+- **Bathrooms:** 9
+- **Sleeps:** 18
+- **Pool:** 15m x 14m -- MASSIVE pool
+- **Location:** Taurisano (between Ugento and Gallipoli inland)
+- **Distance to beach:** 15 km to Torre San Giovanni beaches (25 min drive)
+- **Price:** Enquiry only. Likely EUR 10,000-20,000+/week for a 9-bed TTT property in July.
+- **Amenities:** Air conditioning + underfloor heating; daily maid service (6 hrs Mon-Sat); optional cook; breakfast included; BBQ; boules pitch; Smart TV; Bluetooth speakers; Wi-Fi; private parking; rooftop terrace with panoramic views; driver service available
+- **Table tennis:** Not mentioned
+- **VERDICT:** If the group could stretch the budget, this 9-bed/18-person villa could house almost everyone in a single property. The 15x14m pool is extraordinary. Located between Ugento and Gallipoli. Only need a small 2-bed overflow for the remaining 3 people. But price will be very high.
+
+---
+
+### RECOMMENDED PAIRINGS
+
+Based on all the research, here are the best two-villa combinations:
+
+#### PAIRING A: Villa Christelle + Fiore Bianco (TOP PICK)
+| | Villa Christelle (6-bed) | Fiore Bianco (4-bed) |
+|---|---|---|
+| **Bedrooms** | 6 | 4 |
+| **Sleeps** | 14 | 8 |
+| **Combined** | **10 bedrooms, 22 people** | |
+| **Pool** | 10x4m | 9x5m |
+| **Location** | Pescoluse village | Marina di Salve (2.8 km from Pescoluse) |
+| **Distance apart** | ~3-4 km (5 min drive) | |
+| **Beach** | 800m walk to Pescoluse | 300m walk to Torre Pali; 2.8 km to Pescoluse |
+| **Table tennis** | YES + table football | No |
+| **BBQ** | YES | YES |
+| **Est. combined price** | EUR 3,000-4,500/wk | GBP 3,000-6,000/wk |
+| **Est. total** | **~EUR 6,000-10,000/week combined (~GBP 5,000-8,500)** | |
+
+**Why this works:** Both villas are walking distance to beaches. Pescoluse is the shared beach, reachable from both. Table tennis is at Villa Christelle. Two pools for the group. Both in the Marina di Pescoluse / Marina di Salve coastal strip. Within budget if at the lower end of estimates.
+
+#### PAIRING B: Salento Pool Villa (SopranoVillas) + Villa Gina
+| | Salento Pool Villa (6-bed) | Villa Gina (4-bed) |
+|---|---|---|
+| **Bedrooms** | 6 | 4 |
+| **Sleeps** | 12 | 11 |
+| **Combined** | **10 bedrooms, 23 people** | |
+| **Pool** | 14.5x5.5m (excellent) | Yes (size TBC) |
+| **Location** | 2km from Ugento town | Torre San Giovanni coast |
+| **Distance apart** | ~5-8 km (10 min drive) | |
+| **Beach** | 10 min drive to beaches | 10 min walk to coast; 5 min drive to Pescoluse |
+| **Table tennis** | No | No |
+| **BBQ** | YES | YES |
+| **Est. combined price** | EUR 3,000-5,000/wk | EUR 1,400-2,800/wk |
+| **Est. total** | **~EUR 4,400-7,800/week combined (~GBP 3,700-6,600)** | |
+
+**Why this works:** Best value option. The Soprano Villa's 14.5x5.5m saltwater pool is the standout feature -- big enough for the whole group. Villa Gina is on the coast at Torre San Giovanni. Combined capacity of 23. No table tennis at either -- would need to buy a portable table or find one locally. Further from Pescoluse than Pairing A but still within 15 min drive.
+
+#### PAIRING C: Villa Le Due Sorelle + Fiore Bianco (BEST FOR TABLE TENNIS)
+| | Due Sorelle (5-bed) | Fiore Bianco (4-bed) |
+|---|---|---|
+| **Bedrooms** | 5 | 4 |
+| **Sleeps** | 10-11 | 8 |
+| **Combined** | **9 bedrooms, 18-19 people** | |
+| **Pool** | 10x5m infinity, saltwater | 9x5m |
+| **Location** | Ugento countryside | Marina di Salve coast |
+| **Distance apart** | ~10-12 km (15 min drive) | |
+| **Beach** | 12-15 km to Pescoluse (20 min drive) | 300m to Torre Pali; 2.8 km to Pescoluse |
+| **Table tennis** | YES | No |
+| **BBQ** | YES + pizza oven | YES |
+| **Est. combined price** | EUR 2,500-4,000/wk | GBP 3,000-6,000/wk |
+| **Est. total** | **~EUR 5,500-10,000/week combined (~GBP 4,700-8,500)** | |
+
+**Why this works:** Due Sorelle has table tennis AND pizza oven. Fiore Bianco is walking distance to the beach. Only 9 bedrooms total (need 10-11 ideally) -- slightly tight. Some families might need to double up or use sofa beds. Pizza oven is a big plus for group entertainment.
+
+---
+
+### ACTION ITEMS FOR PUGLIA TWO-VILLA SEARCH
+
+**Immediate (do this week):**
+
+1. **Contact The Thinking Traveller** at +44 (0)20 7377 8518 or info@thethinkingtraveller.com
+   - Request July 25 - Aug 1 2026 pricing and availability for:
+     - **Fiore Bianco** (4-bed, Marina di Salve) -- 2.8 km from Pescoluse
+     - **Tenuta MarVi** (5-bed, Salve) -- near Pescoluse
+     - **Villa Specchia** (7-bed, Specchia) -- has table tennis
+   - Ask if they can recommend paired villas in the Pescoluse area
+
+2. **Contact HDSalento** via hdsalento.com
+   - Request July 25 - Aug 1 2026 pricing for **Villa Christelle Luxury** (6-bed, Pescoluse)
+   - Ask about other 4-6 bed villas with pools near Pescoluse
+
+3. **Contact SopranoVillas** via sopranovillas.com
+   - Request July 25 - Aug 1 2026 pricing for **Salento Pool Villa** (6-bed, Ugento)
+   - Ask about their other Salento properties with 4+ bedrooms and pools
+
+4. **Contact Villa Le Due Sorelle** directly
+   - Official site: villaleduesorelle.it
+   - Confirm July 25 - Aug 1 2026 availability (calendar showed it may be booked)
+   - Ask for pricing
+
+5. **Contact Villa Rosalore** at +393495798707
+   - Confirm July 25-31 availability (calendar showed unavailable -- may be booked already)
+
+6. **Check VRBO for Villa Gina** ([VRBO #1550410ha](https://www.vrbo.com/1550410ha))
+   - Enter July 25 - Aug 1 2026 dates for pricing
+
+**Secondary:**
+
+7. Browse [VilleInSalento.com](https://villeinsalento.com/en/) for additional pool villas in Pescoluse area
+8. Browse [VacanzePuglia.com](https://www.vacanzepuglia.com/en/villas/) for pool villas in Salento
+9. Check [Airbnb Pescoluse villas](https://www.airbnb.com/spiaggia-di-pescoluse-salve-italy/stays/villas) with dates Jul 25-Aug 1, filter 4+ bedrooms, pool
+10. Check [VRBO Pescoluse](https://www.vrbo.com/vacation-rentals/italy/pescoluse-le) with same dates and filters
+
+---
+
+### SUMMARY TABLE: ALL PROPERTIES FOUND
+
+| # | Property | Beds | Sleeps | Pool | Beach dist. | Table Tennis | Est. price/wk (July) | Platform |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Salento Pool Villa | 6 | 12 | 14.5x5.5m salt | 10 min drive | No | EUR 3,000-5,000 | SopranoVillas/Airbnb |
+| 2 | Villa Rosalore | 6 | 12-13 | Saltwater | 8 km (beach) | No | EUR 2,100-3,150 | Direct/Airbnb/Booking |
+| 3 | Villa Le Due Sorelle | 5 | 10-11 | 10x5m salt infinity | 12-15 km | **YES** | EUR 2,500-4,000 | Direct/Airbnb/Booking |
+| 4 | Villa Christelle | 6 | 14 | 10x4m | 800m walk | **YES** + foosball | EUR 2,800-4,200 | HDSalento/Booking |
+| 5 | Ugento Country Cottage | 4-7? | 10 | Seasonal | 3 km | No | EUR 2,700-5,400 | Airbnb/Booking |
+| 6 | Fiore Bianco | 4 | 8 | 9x5m | 300m walk | No | GBP 3,000-6,000 | Thinking Traveller |
+| 7 | Villa Gina | 4 | 11 | Yes | 10 min walk | No | EUR 1,400-2,800 | VRBO/Perle di Puglia |
+| 8 | Villa Pescoluse | 2 | 4 | 8x4m | 3 min drive | No | EUR 1,400-2,450 | Airbnb/Booking/VRBO |
+| 9 | Villetta Iaculizzi | 2-3 | 8 | Yes + hot tub | 14 min walk | No | EUR 2,100-3,150 | Airbnb |
+| 10 | Villetta Estiva | 3 | 8 | Private | Near sea | No | TBC | RaroVillas |
+| 11 | Villa Specchia | 7 | 14 | 14x7m heatable | 25 min drive | **YES** | GBP 6,500-12,500 | Thinking Traveller |
+| 12 | Casino Doxi Stracca | 7 | 14 | 18x2.5m + 4x4m | 15-20 min drive | No | EUR 15,000-20,000 | Thinking Traveller |
+| 13 | Tenuta MarVi | 5 | 10 | Yes | Short drive | No | GBP 4,000-8,000 | Thinking Traveller |
+| 14 | Masseria Acquadolce | 9 | 18 | 15x14m | 25 min drive | No | EUR 10,000-20,000 | Thinking Traveller |
+
+---
+
+### Sources
+
+- [SopranoVillas - Salento Pool Villa](https://www.sopranovillas.com/property/salento-pool-villa/)
+- [Airbnb - Villa with pool in Puglia Salento (Rosalore)](https://www.airbnb.com/rooms/4186083)
+- [Villa Rosalore official site](https://www.rosalore.it/en/)
+- [Perle di Puglia - Villa Rosalore](https://www.perledipuglia.it/en/villa-rosalore.html)
+- [Villa Le Due Sorelle official site](https://www.villaleduesorelle.it/en/)
+- [Airbnb - Villa Due Sorelle](https://www.airbnb.com/rooms/964431660908386588)
+- [HDSalento - Villa Christelle Luxury Pescoluse](https://www.hdsalento.com/en/property/villa-christelle-luxury-pescoluse/)
+- [Airbnb - Ugento Country Cottage](https://www.airbnb.com/rooms/1147732230419274571)
+- [Booking.com - Ugento Country Cottage](https://www.booking.com/hotel/it/ugento-country-cottage.html)
+- [The Thinking Traveller - Fiore Bianco](https://www.thethinkingtraveller.com/italy/puglia/villas/fiore-bianco)
+- [VRBO - Villa Gina](https://www.vrbo.com/1550410ha)
+- [Perle di Puglia - Villa Gina](https://www.perledipuglia.it/en/villa-gina.html)
+- [Airbnb - Villa Pescoluse with Pool and Sea View](https://www.airbnb.com/rooms/1394618016109989071)
+- [Happy.Rentals - Villa Pescoluse](https://www.happy.rentals/vacation-rental/12230-villa-pescoluse-with-pool-and-sea-view)
+- [Airbnb - Villetta Iaculizzi](https://www.airbnb.com/rooms/1011537234939578468)
+- [The Thinking Traveller - Villa Specchia](https://www.thethinkingtraveller.com/italy/puglia/villas/villa-specchia)
+- [The Thinking Traveller - Casino Doxi Stracca](https://www.thethinkingtraveller.com/italy/puglia/villas/casino-doxi-stracca)
+- [The Thinking Traveller - Tenuta MarVi](https://www.thethinkingtraveller.com/italy/puglia/villas/tenuta-marvi)
+- [The Thinking Traveller - Masseria Acquadolce](https://www.thethinkingtraveller.com/italy/puglia/villas/masseria-acquadolce)
+- [The Thinking Traveller - Blu Melia](https://www.thethinkingtraveller.com/italy/puglia/villas/blu-melia)
+- [The Thinking Traveller - Villa Blanca](https://www.thethinkingtraveller.com/italy/puglia/villas/villa-blanca)
+- [RaroVillas - Ugento villas](https://www.rarovillas.com/ugento.html)
+- [Italy-Villas.com - Luxury Ugento](https://www.italy-villas.com/luxury-villas_ugento_apulia.html)
+- [Essential Italy - Puglia](https://www.essentialitaly.co.uk/puglia)
+- [Essential Italy - Villa Perla](https://www.essentialitaly.co.uk/puglia/villas/villa-perla)
+- [VRBO - Pescoluse rentals](https://www.vrbo.com/vacation-rentals/italy/pescoluse-le)
+- [Airbnb - Marina di Pescoluse villas](https://www.airbnb.com/marina-di-pescoluse-italy/stays/villas)
+- [VilleInSalento.com](https://villeinsalento.com/en/)
+- [VacanzePuglia.com - Villas](https://www.vacanzepuglia.com/en/villas/)
+- [Masseria Ceratonia official site](https://masseriaceratonia.it)
